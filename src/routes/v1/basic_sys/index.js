@@ -5,4 +5,4 @@ const router = express.Router()
 
 router.use("/", basicMaterial)
 
-export default router
+export default router;
