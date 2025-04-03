@@ -6,4 +6,6 @@ export const CONSTANTS = Object.freeze({
 
     API_MES: '/mes',
         API_MES_ROUTE_NODE: '/mes_route_node',
+        API_MES_INTERFACE_LOG: '/mes_interface_log',
+        API_MES_INTERFACE_LOG_BY_ERROR_CODE: '/logs/'
 });
